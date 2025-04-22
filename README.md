@@ -21,8 +21,17 @@
 ### La imagen muestra la pantalla de "Now Playing" de una aplicación de música. Se visualiza la carátula de una canción con una fotografía de Eddie Van Halen tocando una guitarra roja y blanca. El título de la canción es "Bad Guys" y el artista es "Edie Sedgwick". Se muestra la duración de la canción (02:24 de 03:24) junto con controles de reproducción como repetir, anterior, pausa/reproducir, siguiente y aleatorio. También hay un icono de corazón para indicar "me gusta" y una opción para ver la letra de la canción.
 ![Texto alternativo](IMAGENES-SPOTIFY/img07.jpg) 
 ## Se visualiza la cancion Bad Guys con letra
+### La imagen muestra la letra de la canción "Bad Guys" de Edie Sedgwick que se está reproduciendo en una interfaz de usuario, probablemente una aplicación de música como Spotify.
+
+#### Se puede ver:
+
+#### El título de la canción: Bad Guys
+#### El nombre del artista: Edie Sedgwick
 ![Texto alternativo](IMAGENES-SPOTIFY/img08.jpg)
 ## Se puede elegir otro tipo de género 
+### La imagen muestra una interfaz de usuario de una aplicación de música. En la parte superior, se ve la portada de la canción "Bad Guys" con un guitarrista tocando. Debajo, se indica que el artista es "iverth lucio" con 2 álbumes y 64 canciones. Hay una sección de "Album" que muestra tres portadas de álbumes, incluyendo uno con la leyenda "Billie Eilish". Finalmente, hay una sección de "PlayList" con dos canciones listadas.
+
 ![Texto alternativo](IMAGENES-SPOTIFY/img09.jpg) 
 ## Se muestra el genero de Enrique Iglesias
+### La imagen muestra el perfil de Enrique Iglesias en una plataforma de música (posiblemente Spotify). Se visualiza su foto de perfil, nombre de usuario (@EnriqueIglesias), su nombre, el número de seguidores (25.2 millones) y a cuántas personas sigue (899). Debajo, se presenta una lista de reproducción pública con varias de sus canciones, incluyendo "¿Dónde Están Corazón...?", "Cuando Me Enamoro", "No Llores por Mí", "El Perdedor", "ASI ES LA VIDA", "SUBEME LA RADIO", "Imagíname Sin Ti" (con Luis Fonsi), y "Quizás". Se indica la duración de cada canción.
 ![Texto alternativo](IMAGENES-SPOTIFY/img10.jpg)
