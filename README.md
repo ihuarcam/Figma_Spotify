@@ -1,3 +1,5 @@
+## Link de Spotify realizado en Figma
+https://www.figma.com/design/6odgtEp5hAemPR19nMXT66/MI-PRIMER-DISE%C3%91O-EN-FITMA?node-id=0-1&t=rwaQ6pqANqvUevzT-1
 # Diseño de SPOTIFY realizado en Figma
 ## Se visualiza el inicio de Spotify
 ### La imagen es una publicidad de Spotify en español. Muestra a un hombre calvo tocando una guitarra eléctrica blanca. En la parte superior izquierda se encuentra el logo de Spotify y la palabra "Spotify". Debajo del hombre hay un texto que dice "Disfruta escuchando música" y un párrafo de texto adicional. En la parte inferior, un botón verde dice "COMENZAR".
